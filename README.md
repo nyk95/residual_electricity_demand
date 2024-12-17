@@ -1,1 +1,1 @@
-# residual_electricity_demand
+# Residual electricity demand modelling tool
