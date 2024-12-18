@@ -84,6 +84,6 @@ for reg in reg_list:
     df_final = df_final.join(df['Demand_classic_adj_rem'].rename(reg),how='left')
     
 
-df_final.to_csv('Final outputn/residual_electricity_demand.csv')
+df_final.to_csv('Final output/residual_electricity_demand.csv')
 
     
